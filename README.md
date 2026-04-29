@@ -1,4 +1,5 @@
-tp-outliers-creditcard
+*tp-outliers-creditcard*
+
 Trabajo Práctico de detección y manejo de outliers sobre el dataset de fraude en tarjetas de crédito, desarrollado para la materia Inteligencia Artificial y Aprendizaje Automático I.
 Autores: Chocobares Juan Cruz — Formenti Agustín
 
